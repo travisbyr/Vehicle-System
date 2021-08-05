@@ -22,7 +22,7 @@ Users can create a vehicle through this form. Validation checking and integer co
 
 <h4>View Activity Form</h4>
 
-<img src="https://raw.githubusercontent.com/travisbyr/Vehicle-System/main/Documentation%20Images/ViewActivity.png" height="550">
+<img src="https://raw.githubusercontent.com/travisbyr/Vehicle-System/main/Documentation%20Images/ViewActivity.png" height="400">
 
 Users can edit an activity by viewing the activity. Here users can edit the data.
 
