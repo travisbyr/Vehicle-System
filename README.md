@@ -1,9 +1,5 @@
 # Vehicle System
 
-[Click here for full documentation]: https://github.com/travisbyr/Vehicle-System/blob/main/Vehicle%20System%20-%20Full%20Documentation.pdf/
-
-
-
 <h4>Objective</h4>
 
 I created an application with the purpose of storing information about rental cars while making sure that I create an intuitive user interface. I was able to achieve this using C# and Windows Forms.  My application also uses a data source that stores and retrieves data when the application is closed and opened. Below is what the final product looks like.
