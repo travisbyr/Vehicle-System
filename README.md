@@ -1,6 +1,6 @@
 # Vehicle System
 
-[Documentation]: https://github.com/travisbyr/Vehicle-System/blob/main/Vehicle%20System%20-%20Full%20Documentation.pdf	"Click here for full documentation"
+[Click here for full documentation]: https://github.com/travisbyr/Vehicle-System/blob/main/Vehicle%20System%20-%20Full%20Documentation.pdf/
 
 
 
