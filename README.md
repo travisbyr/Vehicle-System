@@ -14,6 +14,8 @@ Here users can view, create and delete vehicles. By clicking a registration numb
 
 <img src="https://raw.githubusercontent.com/travisbyr/Vehicle-System/main/Documentation%20Images/ViewVehicle.png" height="600">
 
+When viewing a vehicle, you are given the option to select, cretae and update an activity. You are also shown the key information related to the vehicle.
+
 <h4>Add Vehicle Form</h4>
 
 <img src ="https://raw.githubusercontent.com/travisbyr/Vehicle-System/main/Documentation%20Images/AddVehicle.png" height="450">
